@@ -1,0 +1,9 @@
+# Python dependencies for Drug QA EDA and AI/ML project
+
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+openpyxl
